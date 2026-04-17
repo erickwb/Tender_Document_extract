@@ -1,0 +1,28 @@
+# Núcleo científico
+numpy==1.23.5
+
+scipy==1.13.1
+pandas==2.2.2
+
+# Visualização
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# NLP clássico
+nltk==3.9.1
+gensim==4.3.3
+
+# ML tradicional
+scikit-learn==1.5.2
+imbalanced-learn==0.12.3
+
+# Deep Learning
+tensorflow==2.17.1          # CPU; use build oficial da Google
+torch==2.5.1+cu113          # GPU; com suporte ao CUDA 11.3
+transformers==4.44.2
+tqdm==4.66.5
+
+# Boosting
+xgboost==2.1.1
+lightgbm==4.5.0
+
